@@ -8,7 +8,7 @@ type Props = {
 
 export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
-    <BaseModal title="How to play" isOpen={isOpen} handleClose={handleClose}>
+    <BaseModal title="How to play Bleachers Wordle" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         You have 6 tries to guess the word. After each guess, the color of the tiles will
         change to show how close your guess was to the word.
@@ -48,7 +48,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        Bleachers World was built from an open source version of Wordle -{' '}
+        Bleachers Wordle was built with the help of an open source version of Wordle -{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
