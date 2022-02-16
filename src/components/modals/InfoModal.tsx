@@ -48,13 +48,13 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        Bleachers Wordle was built with the help of an open source version of Wordle -{' '}
+        Bleachers Wordle was built by Lauren Ferrett with the help of an open source version of Wordle -{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
         >
           check out the code here
-        </a>{' '}
+        </a>. Project managed by Moira Healy.{' '}
       </p>
     </BaseModal>
   )
