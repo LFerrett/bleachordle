@@ -1,6 +1,6 @@
 export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 
-export const WIN_MESSAGES = ["You're a killer queen!", "No herbs here, good work!", "You put your whole bussy into that one!"]
+export const WIN_MESSAGES = ["You're a killer queen!", "No herbs here, good work!", "You put your whole bleachussy into that one!"]
 export const GAME_COPIED_MESSAGE = 'Bleachers Wordle copied to clipboard!'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters, herb!'
 export const WORD_NOT_FOUND_MESSAGE = "That's not a word, herb!"
