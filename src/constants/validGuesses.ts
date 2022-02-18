@@ -13019,5 +13019,4 @@ export const VALID_GUESSES = [
   'brave',
   'saved',
   'hdywm',
-  'irtmo',
 ]
