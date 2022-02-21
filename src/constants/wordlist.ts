@@ -48,4 +48,5 @@ export const WORDS = [
   'saved',
   'hdywm',
   'claud',
+  'lyric',
 ]
