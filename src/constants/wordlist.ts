@@ -47,4 +47,5 @@ export const WORDS = [
   'brave',
   'saved',
   'hdywm',
+  'claud',
 ]
