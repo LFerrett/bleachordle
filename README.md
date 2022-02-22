@@ -2,7 +2,7 @@
 
 # Description
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind. It's updated with a Bleachers music theme by both style and word choices. 
+This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind. It's updated with a Bleachers music theme by both style and word choices. Forked from https://github.com/cwackerfuss/react-wordle
 
 [**Try it out!**](http://bleachordle.com/)
 
